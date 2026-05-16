@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Siya Phor</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td width="55%">
 
 ### 👩‍💻 About Me
 
@@ -16,21 +18,29 @@
 - 🌱 Currently Exploring Deep Learning & GenAI
 - ⚡ Love creating interactive web apps
 
----
-
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/siya-phor-438790296">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
 <a href="mailto:siyaphor942@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
 </p>
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -104,6 +114,16 @@ Discover hackathons with smart travel estimation.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Siyaphor&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
+
+---
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Siyaphor/Siyaphor/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
